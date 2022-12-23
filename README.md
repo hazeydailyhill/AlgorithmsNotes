@@ -1,4 +1,4 @@
-# AlgorithmsNotes
+# CS312-algorithms-notes
 Algorithms_Week7.pdf:
 - Fractional Knapsack Problem (Maximum Profits)
 - Prim's Algorithm (Minimum Cost Spanning Tree) 
